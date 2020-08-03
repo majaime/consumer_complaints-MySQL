@@ -9,7 +9,7 @@ File is first decrypted to read the data. Then, the required stats are extracted
 Finally, the desired outputs are recorded in a (.csv) file.
 
 ## Input dataset
-I have provided an input file called `complaints.csv` in the input folder. The code, consumer_compleints.sql, is located in the 'src' folder.
+I have provided an input file called `complaints.csv` in the input folder. The code, consumer_complaints.sql, is located in the 'src' folder.
 
 ## Output
 My code provides an output file called `report.csv` after reading and processing the input file. 
